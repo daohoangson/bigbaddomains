@@ -10,6 +10,8 @@ fi
 
 cp -R ./list "$_target/."
 
-cat ./list/*.txt >"$_target/all.txt"
+cat ./list/*.txt \
+  | sort \
+  | tee "$_target/all.txt"
 
 ls -al "$_target"
