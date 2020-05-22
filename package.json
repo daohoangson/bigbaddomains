@@ -1,0 +1,7 @@
+{
+  "name": "bigbaddomains",
+  "scripts": {
+    "build": "cat list/*.txt >all.txt"
+  },
+  "homepage": "https://bigbaddomains.now.sh/"
+}
