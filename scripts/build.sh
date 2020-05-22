@@ -2,8 +2,14 @@
 
 set -e
 
-cp -R ./list ./public/list
+_target=$1
 
-cat ./list/*.txt >./public/all.txt
+if [ ! -d "$_target" ]; then
+  mkdir -p "$_target"
+fi
 
-ls -al ./public
+cp -R ./list "$_target/."
+
+cat ./list/*.txt >"$_target/all.txt"
+
+ls -al "$_target"
