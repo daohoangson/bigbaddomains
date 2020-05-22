@@ -1,0 +1,7 @@
+{
+  "name": "bigbaddomains",
+  "scripts": {
+    "build": "./scripts/build.sh ./public"
+  },
+  "homepage": "https://bigbaddomains.now.sh/"
+}
