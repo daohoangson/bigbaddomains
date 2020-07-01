@@ -4,4 +4,5 @@ bit.ly
 fc.lc
 megalink.pro
 megaurl.in
+rgl.vn
 shorten.asia
