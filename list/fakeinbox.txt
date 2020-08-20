@@ -4,6 +4,17 @@ maildrop.cc
 mailnesia.com
 mailinator.com
 fakeinbox.com
+guerrillamailblock.com
+guerrillamail.biz
+guerrillamail.com
+guerrillamail.de
+guerrillamail.info
+guerrillamail.net
+guerrillamail.org
+grr.la
+pokemail.net
+sharklasers.com
+spam4.me
 tempinbox.com
 tempsky.com
 temp-mail.org
