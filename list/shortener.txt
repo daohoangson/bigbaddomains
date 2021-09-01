@@ -11,4 +11,5 @@ megalink.pro
 megaurl.in
 rgl.vn
 shorten.asia
+tinyurl.com
 vinaurl.in
