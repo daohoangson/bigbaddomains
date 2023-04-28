@@ -13,3 +13,4 @@ rgl.vn
 shorten.asia
 tinyurl.com
 vinaurl.in
+web1s.co
