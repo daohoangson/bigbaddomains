@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/daohoangson/bigbaddomains",
+      "permanent": true
+    }
+  ]
+}
